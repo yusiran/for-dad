@@ -1,2 +1,3 @@
 # for-dad
-a project for dad
+
+just a project for studing together
